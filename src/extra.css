@@ -1,0 +1,6 @@
+.sampleDownloads{display:flex;justify-content:center;gap:15px;align-items:center;margin-top:13px;font-size:12px;color:#8b9d97}
+.sampleDownloads a{color:#0f766e;font-weight:600;text-decoration:none}
+.sampleDownloads a:hover{text-decoration:underline}
+.portalActions{display:flex;align-items:center;justify-content:center;gap:12px;margin:4px auto 20px;font-size:12px;color:#81938d}
+.portalActions a{text-decoration:none}
+@media(max-width:760px){.sampleDownloads,.portalActions{flex-direction:column;gap:8px}}
